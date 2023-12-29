@@ -23,7 +23,7 @@ public class AplikasiTodoList {
         }
     }
 
-    public  static void testShowTodoList(){
+    public static void testShowTodoList(){
         model[0] = "Belajar Java Dasar";
         model[1] = "Study Kasus : Aplikasi Todo list";
         showTodoList();
